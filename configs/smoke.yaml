@@ -1,0 +1,7 @@
+num_known: 2
+unknown_queries: 2
+spheres_per_class: 2
+size: 224
+batch_size: 1
+max_steps: 10
+seed: 42
